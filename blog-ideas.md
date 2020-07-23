@@ -4,11 +4,16 @@
 
 ## Technical
 
-- Saga eventChannels
+- Saga eventChannels https://petemill.com/writing/redux-saga-realtime-events-channel-deepstream/
+- TLS ciphers
+- /bin/bash , sh -c etc... commands used in codeship based on shells --> What are shells?
+- Performance testing https://www.mariedrake.com/post/using-taurus-for-performance-testing
 
-## Career, interviews
+## Career, interviews, productivity
 
 - OKRs for self growth
+- Nailing the intro
+- Too many browser tabs open, not good!
 
 ## Digital health tech
 
@@ -17,8 +22,22 @@
 
 ## SEO, Blogging
 
-- Beginner level Blogging
+- Beginner level blogging
+- How I tweaked Dan's website for better SEO
+- RSS feeds, what & why
+- Digital garden --> why I like the github commits
 
 ## Website
 
 - Tools for design, vectr.com
+- -webkit- prefixes, like the line-clamp supported on non Webkit browsers
+
+## Browser devtools
+
+- Time travel debugging - history and the current state
+- Web replay - What is it? A new browser? How to get started
+
+## OpenSource
+
+- Outreachy
+- First project contribution
