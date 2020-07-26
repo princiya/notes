@@ -8,6 +8,7 @@
 - TLS ciphers
 - /bin/bash , sh -c etc... commands used in codeship based on shells --> What are shells?
 - Performance testing https://www.mariedrake.com/post/using-taurus-for-performance-testing
+- HLS vs protocol for WebRTC https://www.dacast.com/blog/hls-streaming-protocol/
 
 ## Career, interviews, productivity
 
