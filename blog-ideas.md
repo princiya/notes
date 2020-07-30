@@ -9,6 +9,12 @@
 - /bin/bash , sh -c etc... commands used in codeship based on shells --> What are shells?
 - Performance testing https://www.mariedrake.com/post/using-taurus-for-performance-testing
 - HLS vs protocol for WebRTC https://www.dacast.com/blog/hls-streaming-protocol/
+- Posenet for RN + Node.js
+- Npm vulnerabilities, yarn audit on CI
+
+## Design system
+
+- Storybook for Mirror
 
 ## Career, interviews, productivity
 
@@ -36,6 +42,9 @@
 ## Browser devtools
 
 - Time travel debugging - history and the current state
+  - Time travel debugging for mobile applications
+  - State of debugging with React Native vs Flutter
+  - Mobile application debugging devtools (RN, Flutter)
 - Web replay - What is it? A new browser? How to get started
 
 ## OpenSource
