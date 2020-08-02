@@ -51,3 +51,8 @@
 
 - Outreachy
 - First project contribution
+
+## Algorithms, Data Structures
+
+- How test files get scanned
+- Search algorithm in browser
