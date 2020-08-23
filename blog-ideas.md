@@ -56,3 +56,7 @@
 
 - How test files get scanned
 - Search algorithm in browser
+
+## Leadership
+
+- Recent tweet and my findings
