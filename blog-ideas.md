@@ -21,6 +21,7 @@
 - OKRs for self growth
 - Nailing the intro
 - Too many browser tabs open, not good!
+- 2 years ago, trying to find the right job -- recalling the interview experience
 
 ## Digital health tech
 
@@ -60,3 +61,5 @@
 ## Leadership
 
 - Recent tweet and my findings
+- Lessons from organising the critical tech meetup
+- New tech lead is like a new parent
