@@ -16,10 +16,11 @@
 
 ## Books
 
-- https://www.amazon.com/dp/1491973897/ref=cm_sw_r_cp_tai_Aq9tCbSNCEHAA
-- https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339
+- [The Manager's Path](https://www.amazon.com/dp/1491973897/ref=cm_sw_r_cp_tai_Aq9tCbSNCEHAA)
+- [Accelerate software performing technology operations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
 ## Coaching
 
-- https://www.activevoicehq.com/group-coaching
-- https://www.insideoutincubator.com/events
+- [Active voice](https://www.activevoicehq.com/group-coaching)
+- [Insideout incubator](https://www.insideoutincubator.com/events)
+- [Together.LeadDev](https://together.leaddev.com/programme)
