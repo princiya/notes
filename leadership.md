@@ -24,3 +24,7 @@
 - [Active voice](https://www.activevoicehq.com/group-coaching)
 - [Insideout incubator](https://www.insideoutincubator.com/events)
 - [Together.LeadDev](https://together.leaddev.com/programme)
+
+Sub reddit kind of discussions? https://www.reddit.com/r/cscareerquestions/ Bring more female voices into reddit discussions
+
+Brain state https://www.linkedin.com/pulse/maintaining-your-state-sarah-baca/
